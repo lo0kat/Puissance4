@@ -2,7 +2,7 @@
 
 SRC = $(wildcard *.c) #fichiers sources
 OBJ = $(SRC:.c=.o) #fichiers objets
-PROG = tp6 # nom de l'exécutable
+PROG = puissance4 # nom de l'exécutable
 CC = gcc
 
 
